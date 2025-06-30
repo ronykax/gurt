@@ -1,4 +1,4 @@
-use crate::token::{self, Token};
+use crate::token::{Token};
 
 // take .gurt and return the list of all the tokens
 pub fn lex(source: &str) -> Vec<Token> {
