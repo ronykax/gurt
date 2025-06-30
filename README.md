@@ -1,2 +1,2 @@
 # gurt
-just an interpreted esolang made in rust 🦀
+interpreted esolang made with rust
