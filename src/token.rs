@@ -1,4 +1,5 @@
-#[derive(Debug, Clone, PartialEq)]
+// #[derive(Debug, Clone, PartialEq)]
+#[derive(Debug)]
 pub enum Token {
     // keywords
     HeyChat,
@@ -13,6 +14,8 @@ pub enum Token {
     PutFries,
     Bet,
     TypeShi,
+    Cap,
+    Nocap,
 
     // operators
     Plus,

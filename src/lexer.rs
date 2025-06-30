@@ -29,6 +29,8 @@ pub fn lex(source: &str) -> Vec<Token> {
                 "bet" => tokens.push(Token::Bet),
                 "typeshi" => tokens.push(Token::TypeShi),
                 "dogwater" => tokens.push(Token::Dogwater),
+                "cap" => tokens.push(Token::Cap),
+                "nocap" => tokens.push(Token::Nocap),
 
                 "is" => tokens.push(Token::Is),
                 "plus" => tokens.push(Token::Plus),

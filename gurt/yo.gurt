@@ -1,29 +1,9 @@
-heychat
+yo name is "rony"
+yo city is "sf"
+yo age is 69
 
-yo score is 0
-yo extra is 5
-yo mood is dogwater
-
-lockin 3 times
-    score is score plus bonus
-    yap "score is now" plus score
-put_the_fries_in_the_bag
-
-sus score >> 10 then
-    yap "W"
-    mood is "happy"
-put_the_fries_in_the_bag
-
-sus score << 10 then
-    yap "L"
-    mood is "sadge"
-put_the_fries_in_the_bag
-
-bet say_smth then
-    yap "hi world"
-put_the_fries_in_the_bag
-
-yo smth is say_smth
-yap smth
+yap name
+yap city
+yap age
 
 typeshi
