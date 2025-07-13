@@ -1,0 +1,35 @@
+yo x is 69
+yo y is 420
+
+bet say_hi():
+    print("hi world")
+
+bet addition(x, y):
+    return x + y
+
+f_around:
+    yap("worked")
+find_out:
+    yap("didn't work")
+at_last:
+    yap("finally")
+
+lockin i in range(3):
+    sus i >= 2:
+        yap("one last time")
+        
+    yap("say my name")
+
+answer = addition(x, y)
+print(answer)
+
+n = 0
+
+lockin i in range(10):
+    n += 1
+
+ong n >= 0:
+    yap("n greater than 0")
+
+    sus n >= 10:
+        get_out
