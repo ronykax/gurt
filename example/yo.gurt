@@ -2,7 +2,7 @@ yo x is 69
 yo y is 420
 
 bet say_hi():
-    print("hi world")
+    yap("hi world")
 
 bet addition(x, y):
     return x + y
@@ -21,7 +21,7 @@ lockin i in range(3):
     yap("say my name")
 
 answer = addition(x, y)
-print(answer)
+yap(answer)
 
 n = 0
 
