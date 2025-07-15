@@ -20,10 +20,10 @@ lockin i in range(3):
         
     yap("say my name")
 
-answer = addition(x, y)
+answer is addition(x, y)
 yap(answer)
 
-n = 0
+n is 0
 
 lockin i in range(10):
     n += 1
